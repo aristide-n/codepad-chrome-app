@@ -1,4 +1,9 @@
 {
+  "txt": {
+    "icon": "devicon fa fa-file-text",
+    "mode": "textfile",
+    "name": "Plain text"
+  },
   "conf": {
     "icon": "devicon-apache-plain",
     "mode": "apache_conf",
@@ -173,11 +178,6 @@
     "icon": "devicon devicon-visualstudio-plain",
     "mode": "vbscript",
     "name": "VB Script"
-  },
-  "txt": {
-    "icon": "devicon fa fa-file-text",
-    "mode": "textfile",
-    "name": "Plain text"
   },
   "xhtml": {
     "icon": "icon-html",
